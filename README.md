@@ -1,20 +1,31 @@
+# UI-Twitter
 
-#UI-Twitter
-#Descrição
-#UI-Twitter é um projeto que visa recriar a interface do Twitter utilizando tecnologias como HTML, CSS e JavaScript. Ele proporciona uma experiência similar à plataforma real, permitindo aos usuários visualizar tweets, e #interagir com a timeline.
+<img
+  src="/src/assets/twitter.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
 
-#Este projeto foi desenvolvido como parte do meu aprendizado em desenvolvimento frontend, utilizando conceitos avançados de CSS e JavaScript e o framework React para criar uma interface atraente e responsiva.
 
-#Tecnologias Utilizadas
-#HTML
-#CSS
-#JavaScript
+🚀 **Description**
 
-#Contribuições são sempre bem-vindas!
+UI-Twitter is a project aimed at recreating the Twitter interface using technologies such as HTML, CSS, and JavaScript. It provides a similar experience to the actual platform, allowing users to view tweets and interact with the timeline.
 
-#Contato
-#Se você tiver alguma dúvida ou sugestão sobre o projeto, sinta-se à vontade para entrar em contato.
+This project was developed as part of my learning journey in frontend development, incorporating advanced CSS and JavaScript concepts, and utilizing the React framework to create an attractive and responsive interface.
 
-#Email:ederjuninho200@gmail.com
-#LinkedIn: https://www.linkedin.com/in/ederjuniordev/
-#Agradeço seu interesse em visualizar este projeto.
+# ⚙️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React framework
+
+# 🤝 Contributions
+Contributions are always welcome! Feel free to submit pull requests or open issues.
+
+# 📬 Contact
+If you have any questions or suggestions about the project, feel free to get in touch.
+
+- Email: ederjuninho200@gmail.com
+- LinkedIn: [Eder Junior](https://www.linkedin.com/in/ederjuniordev/)
+
+Thank you for your interest in viewing this project! 🙌
