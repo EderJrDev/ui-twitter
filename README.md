@@ -2,8 +2,8 @@
 
 <img
   src="/src/assets/twitter.png"
-  alt="Alt text"
-  title="Optional title"
+  alt="UI-Twitter"
+  title="UI-Twitter"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
 
@@ -17,7 +17,7 @@ This project was developed as part of my learning journey in frontend developmen
 - HTML
 - CSS
 - JavaScript
-- React framework
+- React
 
 # 🤝 Contributions
 Contributions are always welcome! Feel free to submit pull requests or open issues.
